@@ -1,0 +1,22 @@
+{
+  "name": "ecommerce",
+  "version": "1.0.0",
+  "description": "ecommerce website design",
+  "main": "index.html",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hortopanalexandru/ecommercewebdesign.git"
+  },
+  "author": "Hortopan Alexandru",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hortopanalexandru/ecommercewebdesign/issues"
+  },
+  "homepage": "https://hortopanalexandru.github.io/ecommercewebdesign",
+  "dependencies": {
+    "gh-pages": "^2.1.1"
+  }
+}
